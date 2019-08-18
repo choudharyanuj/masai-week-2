@@ -254,5 +254,7 @@ h2 p
 		background-color: green;
         background-image: linear-gradient(#833ab4, #fd1d1d, #fcb045);
 	}
-	
+	#nav{
+	flex-direction: column;
+	}
 }
